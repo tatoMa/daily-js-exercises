@@ -12,8 +12,8 @@ console.log(c);
 // function foo () {
 //     let b = 3
 //     function too () {
-//         console.log(a) // 1
-//         console.log(b) // 3
+//         console.log(a)
+//         console.log(b)
 //     }
 //     too()
 // }

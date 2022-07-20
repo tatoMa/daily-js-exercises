@@ -30,6 +30,8 @@
 // };
 // const counter1 = counter();
 // const counter2 = counter();
+// console.log(counter1.value());
+// console.log(counter2.value());
 // counter1.add();
 // counter1.add();
 // counter2.add();
